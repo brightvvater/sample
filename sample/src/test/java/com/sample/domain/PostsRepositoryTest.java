@@ -1,7 +1,8 @@
 package com.sample.domain;
 
+import com.sample.domain.post.Posts;
+import com.sample.domain.post.PostsRepository;
 import junit.framework.TestCase;
-import org.assertj.core.api.Assertions;
 import org.junit.After;
 import org.junit.Test;
 import org.junit.runner.RunWith;

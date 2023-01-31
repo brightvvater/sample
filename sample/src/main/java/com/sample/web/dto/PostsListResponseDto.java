@@ -1,6 +1,6 @@
 package com.sample.web.dto;
 
-import com.sample.domain.Posts;
+import com.sample.domain.post.Posts;
 import lombok.Getter;
 
 import java.time.LocalDateTime;

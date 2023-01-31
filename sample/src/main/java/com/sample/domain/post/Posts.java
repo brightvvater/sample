@@ -1,5 +1,6 @@
-package com.sample.domain;
+package com.sample.domain.post;
 
+import com.sample.domain.BaseEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,7 +1,7 @@
 package com.sample.service.posts;
 
-import com.sample.domain.Posts;
-import com.sample.domain.PostsRepository;
+import com.sample.domain.post.Posts;
+import com.sample.domain.post.PostsRepository;
 import com.sample.web.dto.PostsListResponseDto;
 import com.sample.web.dto.PostsResponseDto;
 import com.sample.web.dto.PostsSaveRequestDto;
